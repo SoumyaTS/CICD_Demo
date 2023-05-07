@@ -15,4 +15,8 @@ namespace SampleAppCICD.Model
         public string dob { get; set; }
         public string address { get; set; }
     }
+    public class Test
+    {
+
+    }
 }
